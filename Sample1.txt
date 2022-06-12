@@ -9,4 +9,8 @@ change sample file for second request
 
 This is a third change request
 
+<<<<<<< HEAD
 Hello World 
+=======
+This is a fourth request
+>>>>>>> 7add09f932000e3b47a9501afb2aad5fa2065c4f
